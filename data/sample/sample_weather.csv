@@ -1,0 +1,4 @@
+weather_type,affected_tasks,blocked_periods
+rain,"T4,T7","[[15, 20], [35, 40]]"
+snow,"T3,T4","[[50, 55]]"
+extreme_heat,"T5,T6","[[80, 85]]"

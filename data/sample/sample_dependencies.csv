@@ -1,0 +1,9 @@
+predecessor,successor
+T1,T2
+T2,T3
+T3,T4
+T3,T5
+T3,T6
+T4,T7
+T5,T7
+T6,T7

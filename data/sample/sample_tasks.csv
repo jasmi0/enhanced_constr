@@ -1,0 +1,8 @@
+task_id,task_name,duration,labor_required,materials_needed,earliest_start,latest_finish,priority
+T1,Site Preparation,5,3,"{""cement"": 10}",0,10,1.0
+T2,Foundation,8,5,"{""cement"": 50, ""steel"": 20}",0,20,1.0
+T3,Framing,10,4,"{""wood"": 100, ""steel"": 30}",0,35,0.8
+T4,Roofing,6,3,"{""roofing_materials"": 40}",0,45,0.9
+T5,Electrical,7,2,"{""electrical_materials"": 25}",0,50,0.7
+T6,Plumbing,5,2,"{""plumbing_materials"": 30}",0,50,0.7
+T7,Interior Finishing,12,6,"{""finishing_materials"": 80}",0,60,0.6

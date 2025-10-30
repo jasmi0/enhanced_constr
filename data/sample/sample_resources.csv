@@ -1,0 +1,9 @@
+resource_id,resource_type,capacity,cost_per_unit,availability_periods
+workers,labor,10,100,"[[0, 365]]"
+cement,material,100,1,"[[0, 365]]"
+steel,material,100,2,"[[0, 365]]"
+wood,material,200,1.5,"[[0, 365]]"
+roofing_materials,material,50,3,"[[0, 365]]"
+electrical_materials,material,50,2.5,"[[0, 365]]"
+plumbing_materials,material,50,2,"[[0, 365]]"
+finishing_materials,material,100,2,"[[0, 365]]"
